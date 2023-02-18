@@ -35,6 +35,10 @@ Hello! My name is Lorena Alibertti and I am a Full Stack Developer from Argentin
             <span><strong>Node Js</strong></span><br>
             <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
             </td>
+            <td width="100px" align="center">
+            <span><strong>redux</strong></span><br>
+            <img height=60 src="[https://redux.js.org/">
+            </td>
         </tr>
     </tbody>
 </table>
