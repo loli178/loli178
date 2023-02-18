@@ -25,7 +25,7 @@ Hello! My name is Lorena Alibertti and I am a Full Stack Developer from Argentin
         <tr valign="bottom">
             <td width="100px" align="center">
             <span><strong>SASS</strong></span><br>
-            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+            <img height=60 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sequelize/sequelize-original-wordmark.svg">
             </td>
             <td width="100px" align="center">
             <span><strong>CSS</strong></span><br>
