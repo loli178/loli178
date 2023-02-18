@@ -22,8 +22,6 @@ Hello! My name is Lorena Alibertti and I am a Full Stack Developer from Argentin
             <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
             </td>
             <td width="100px" align="center">
-            <span><strong>GIT</strong></span><br>
-            <img height=60 src="<td width="100px" align="center">
             <span><strong>Bootstrap</strong></span><br>
             <img height=60 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original-wordmark.svg">
             </td>">
