@@ -6,6 +6,41 @@ Hello! My name is Lorena Alibertti and I am a Full Stack Developer from Argentin
 - 🌐 Socials: https://www.linkedin.com/in/lorena-alibertti-822852243/
 
 
+<table width="420px" align="center">
+    <tbody>
+        <tr valign="top">
+            <td width="100px" align="center">
+            <span><strong>React</strong></span><br>
+            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+            </td>
+            <td width="100px" align="center">
+            <span><strong>JavaScript</strong></span><br>
+            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+            </td>
+            <td width="100px" align="center">
+            <span><strong>GIT</strong></span><br>
+            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+            </td>
+        </tr>
+        <tr valign="bottom">
+            <td width="100px" align="center">
+            <span><strong>SASS</strong></span><br>
+            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+            </td>
+            <td width="100px" align="center">
+            <span><strong>CSS</strong></span><br>
+            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            </td>
+            <td width="100px" align="center">
+            <span><strong>Node Js</strong></span><br>
+            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+
 <!--
 **loli178/loli178** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
