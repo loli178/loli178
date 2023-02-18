@@ -4,7 +4,6 @@ Hello! My name is Lorena Alibertti and I am a Full Stack Developer from Argentin
 - 🌱 I’m currently learning  Mongo DB, Typescript, Angular.
 - 💻 Tech Stack:  Javascript | Html | NodeJs | Css | Bootstrap | Redux | Express | PostgreSQL | SQLite | Sequelize
 - 🌐 Socials: https://www.linkedin.com/in/lorena-alibertti-822852243/
-- 📌 My Projects:
 
 
 <!--
