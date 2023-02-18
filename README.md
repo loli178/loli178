@@ -37,7 +37,7 @@ Hello! My name is Lorena Alibertti and I am a Full Stack Developer from Argentin
             </td>
             <td width="100px" align="center">
             <span><strong>redux</strong></span><br>
-            <img height=60 src="https://redux.js.org/](https://github.com/devicons/devicon/blob/v2.15.1/icons/redux/redux-original.svg">
+            <img height=60 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/redux/redux-original.svg">
             </td>
         </tr>
     </tbody>
